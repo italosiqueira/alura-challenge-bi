@@ -54,3 +54,11 @@ O projeto encontra-se disponível abaixo:
 <a href="https://app.powerbi.com/view?r=eyJrIjoiMTMxMWZjOGEtZmE2MC00MjhhLTk1NzQtMTBlYjA1NDIyZjIzIiwidCI6IjJlYTRlYWE0LTdiZDQtNGU0ZC05NWRkLWRhZWE3ZmYwYjA4YSJ9" target="_blank">
   <img src='AluraLog/Challenge BI - Semana 01 - AluraLog.jpg' alt="Alura Log Dashboard" width="70%" />
 </a>
+
+# Referências
+
+- [Power BI: Medidas implícitas e explícitas](https://www.alura.com.br/artigos/power-bi-medidas-implicitas-explicitas)
+- [Power BI: parâmetros e exportação de modelos](https://www.alura.com.br/artigos/power-bi-parametros-e-exportacao-de-modelos)
+- [Power BI: Storytelling com Bookmarks](https://cursos.alura.com.br/power-bi-storytelling-com-bookmarks-c282)
+- [Power BI: conceitos de Latitude e longitude](https://www.alura.com.br/artigos/latitude-longitude-power-bi)
+- [Power BI: publicando na web com uma conta pessoal](https://www.alura.com.br/artigos/publicando-na-web-com-power-bi)
